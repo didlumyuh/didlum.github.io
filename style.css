@@ -1,9 +1,9 @@
-<!--Hey! This is the original version
-of Simple CSS Waves-->
-<link rel="stylesheet" type="text/css" href="styles.css" />
+<!DOCTYPE html>
+<html lang="en">
 <div class="header">
 
     <!--Content before waves-->
+    <link rel="stylesheet" type="text/css" href="styles.css" /> 
     <div class="inner-header flex">
     <h1>didlum</h1>
     </div>
@@ -53,3 +53,4 @@ of Simple CSS Waves-->
       <p>twitch.tv/didlum</p>
     </div>
     <!--Content ends-->
+    </html>
