@@ -197,44 +197,44 @@ ion-icon {
   text-overflow: ellipsis;
 }
 
-.icon-resume {
-  color: #e95950;
+.icon-youtube {
+  color: #FF0000;
 }
 
-.icon-resume:hover {
-  background: #e95950;
+.icon-youtube:hover {
+  background: #FF0000;
 }
 
-.icon-email {
-  color: #004f9f;
+.icon-twitter {
+  color: #1DA1F2;
 }
 
-.icon-email:hover {
-  background: #004f9f;
+.icon-twitter:hover {
+  background: #1DA1F2;
 }
 
-.icon-github {
-  color: #333;
+.icon-twitch {
+  color: #6441a5;
 }
 
-.icon-github:hover {
-  background: #333;
-}
-
-.icon-linkedin {
-  color: #0077b5;
-}
-
-.icon-linkedin:hover {
-  background: #0077b5;
+.icon-twitch:hover {
+  background: #6441a5;
 }
 
 .icon-instagram {
-  color: #cd486b;
+  color: #C13584;
 }
 
 .icon-instagram:hover {
-  background: #cd486b;
+  background: #C13584;
+}
+
+.icon-discord {
+  color: #7289da;
+}
+
+.icon-discord:hover {
+  background: #7289da;
 }
 
 .icon-transcript {
