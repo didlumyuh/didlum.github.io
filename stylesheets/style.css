@@ -50,10 +50,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 body {
-  color: #333;
+  color: #ffffff;
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  background: #f7f7f7;
+  background: #000000;
 }
 
 h1 {
@@ -246,7 +246,7 @@ ion-icon {
 }
 
 #spin {
-  color: red;
+  color: #ffffff;
 }
 
 #spin:after {
@@ -256,7 +256,7 @@ ion-icon {
 
 @keyframes spin {
   0% {
-    content: "YourMom";
+    content: "Content Creator";
   }
   10% {
     content: "Java";
@@ -274,7 +274,7 @@ ion-icon {
     content: "Css";
   }
   60% {
-    content: "YourDad";
+    content: "Music Producer";
   }
   70% {
     content: "Java";
